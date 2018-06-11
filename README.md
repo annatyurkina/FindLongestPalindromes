@@ -2,7 +2,7 @@
 
 To find three longest palindromes, clone repository:
 
-**git clone https://github.com/annatyurkina/FindLongestPalindromes.git <repository_folder>
+**git clone https://github.com/annatyurkina/FindLongestPalindromes.git <repository_folder>**
 
 In terminal go to **<repository_folder>/target** and run:
 
